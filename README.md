@@ -1,4 +1,4 @@
-Password Generator using ReactJS.
+Password Generator coded in ReactJS, created using Vite.
 
 This is a simple password generator, made with a single React component.
 It generates a password with numbers, uppercase and lowercase letters and symbols, always.
